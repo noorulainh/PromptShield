@@ -1,0 +1,32 @@
+# Node
+web/node_modules/
+web/.next/
+web/coverage/
+
+# Python
+api/.pytest_cache/
+api/__pycache__/
+api/.venv/
+*.pyc
+
+# Virtual environments (IMPORTANT)
+venv/
+.venv/
+.venv-py312/
+
+# Environment files (IMPORTANT)
+.env
+.env.local
+
+# Runtime data
+api/promptshield.db
+api/*.db
+
+# Local ML model artifacts (too large for GitHub)
+models/
+
+# OS/Editor
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/settings.json

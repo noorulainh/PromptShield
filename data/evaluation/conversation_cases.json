@@ -1,0 +1,41 @@
+[
+  {
+    "id": "conv_support_1",
+    "turns": [
+      {
+        "text": "Hi, my name is Salman Qureshi and my phone is 0300-7778899."
+      },
+      {
+        "text": "Please remember Salman Qureshi from Islamabad, and reach me on 0300 7778899."
+      },
+      {
+        "text": "Mera account number 554433221100 hai aur Salman Qureshi ka ticket close kar dein."
+      }
+    ]
+  },
+  {
+    "id": "conv_banking_1",
+    "turns": [
+      {
+        "text": "My IBAN is PK36SCBL0000001123456702 and CNIC is 35202-1234567-1."
+      },
+      {
+        "text": "Kindly recheck PK36SCBL0000001123456702 transaction because CNIC 35202 1234567 1 was already shared."
+      }
+    ]
+  },
+  {
+    "id": "conv_multilingual_1",
+    "turns": [
+      {
+        "text": "میرا نام علی ہے اور میرا نمبر 03001234567 ہے۔"
+      },
+      {
+        "text": "Ali ka phone number dobara verify karo: 0300 1234567"
+      },
+      {
+        "text": "this is ali and my account number is 009988776655"
+      }
+    ]
+  }
+]

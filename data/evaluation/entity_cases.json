@@ -1,0 +1,49 @@
+[
+  {
+    "id": "eng_case_1",
+    "text": "My name is Ahmed Raza. My phone is +92 301 1122334 and email is ahmed.raza@example.com.",
+    "entities": [
+      {"label": "PERSON", "value": "Ahmed Raza"},
+      {"label": "PHONE", "value": "+92 301 1122334"},
+      {"label": "EMAIL", "value": "ahmed.raza@example.com"}
+    ]
+  },
+  {
+    "id": "urdu_case_1",
+    "text": "میرا نام سارہ علی ہے۔ میرا شناختی کارڈ نمبر 35202-1234567-1 ہے۔",
+    "entities": [
+      {"label": "PERSON", "value": "سارہ علی"},
+      {"label": "NATIONAL_ID", "value": "35202-1234567-1"}
+    ]
+  },
+  {
+    "id": "roman_case_1",
+    "text": "Mera naam Bilal Khan hai, mera account number 00112233445566 aur phone 0300-4445566 hai.",
+    "entities": [
+      {"label": "PERSON", "value": "Bilal Khan"},
+      {"label": "FINANCIAL", "value": "00112233445566"},
+      {"label": "PHONE", "value": "0300-4445566"}
+    ]
+  },
+  {
+    "id": "finance_case_1",
+    "text": "Please process refund to IBAN PK36SCBL0000001123456702 and contact via 0311 9988776.",
+    "entities": [
+      {"label": "FINANCIAL", "value": "PK36SCBL0000001123456702"},
+      {"label": "PHONE", "value": "0311 9988776"}
+    ]
+  },
+  {
+    "id": "safe_case_1",
+    "text": "Summarize the benefits of federated learning for enterprise AI governance.",
+    "entities": []
+  },
+  {
+    "id": "health_case_1",
+    "text": "DOB: 07/11/1998. Address: House 8, Street 10, Lahore Cantt.",
+    "entities": [
+      {"label": "DATE_OF_BIRTH", "value": "07/11/1998"},
+      {"label": "ADDRESS", "value": "House 8, Street 10, Lahore Cantt"}
+    ]
+  }
+]
