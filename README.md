@@ -216,18 +216,3 @@ This updates evaluation/adversarial metrics consumed by the dashboard.
 - Add more robust transliteration and phonetic matching for Roman Urdu.
 - Add end-to-end Playwright UI tests and CI pipeline automation.
 
-## Methodology References
-
-- Architecture: `docs/architecture.md`
-- Data model: `docs/data-model.md`
-- Privacy methodology: `docs/methodology.md`
-
-## Screenshot Placeholders
-
-- `docs/screenshots/landing.png`
-- `docs/screenshots/dashboard.png`
-- `docs/screenshots/live-shield.png`
-- `docs/screenshots/adversarial-lab.png`
-- `docs/screenshots/metrics.png`
-- `docs/screenshots/audit-trail.png`
-
